@@ -5,7 +5,6 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import lombok.Data;
-
 import java.io.Serializable;
 
 /** School model
@@ -27,5 +26,5 @@ public class School extends Auditable<String> implements  Serializable {
 
     private String phone;
 
-
+    private boolean isActive;
 }
