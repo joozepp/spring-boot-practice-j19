@@ -7,7 +7,8 @@ import com.sda.study.springbootpractice.models.Student;
 
 import java.util.List;
 
-/**
+/**To handle all Student related operations
+ *
  * @author Joozepp
  * @Date 2/28/2023
  */

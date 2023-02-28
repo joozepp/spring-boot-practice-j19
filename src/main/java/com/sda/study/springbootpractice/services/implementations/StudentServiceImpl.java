@@ -13,7 +13,8 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 import java.util.Optional;
 
-/**
+/**Implementation of StudentService
+ *
  * @author Joozepp
  * @Date 2/28/2023
  */

@@ -5,8 +5,8 @@ import com.sda.study.springbootpractice.models.School;
 import java.util.List;
 
 /**
+ *To handle all School related operations
  *
- * To handle all School related operations
  * @author Joozepp
  * @Date 2/27/2023
  */

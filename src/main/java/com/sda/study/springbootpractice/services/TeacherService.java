@@ -5,7 +5,8 @@ import com.sda.study.springbootpractice.models.Teacher;
 
 import java.util.List;
 
-/**
+/**To handle all Teacher related operations
+ *
  * @author Joozepp
  * @Date 2/28/2023
  */

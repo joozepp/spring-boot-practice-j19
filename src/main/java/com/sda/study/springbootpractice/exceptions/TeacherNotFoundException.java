@@ -1,6 +1,7 @@
 package com.sda.study.springbootpractice.exceptions;
 
-/**
+/**Exception if the Teacher not found.
+ *
  * @author Joozepp
  * @Date 2/28/2023
  */

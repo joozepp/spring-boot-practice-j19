@@ -1,6 +1,7 @@
 package com.sda.study.springbootpractice.exceptions;
 
-/**
+/**Exception if the student not found.
+ *
  * @author Joozepp
  * @Date 2/28/2023
  */
