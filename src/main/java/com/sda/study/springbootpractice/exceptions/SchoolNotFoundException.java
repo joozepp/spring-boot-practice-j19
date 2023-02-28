@@ -1,6 +1,6 @@
 package com.sda.study.springbootpractice.exceptions;
 
-import java.rmi.server.UID;
+
 
 /**
  * Exception if the school not found.

@@ -8,6 +8,8 @@ import org.springframework.format.annotation.DateTimeFormat;
 import java.io.Serial;
 import java.io.Serializable;
 import java.time.LocalDate;
+import java.util.ArrayList;
+import java.util.List;
 
 /** Course model
  *
@@ -30,4 +32,7 @@ public class Course extends Auditable<String> implements Serializable {
     private int durationInDays;
     @OneToOne(cascade = CascadeType.MERGE)  //use cascade when using @OneToOne
     private School school;
+
+    private boolean isActive;
+
 }
